@@ -4,32 +4,35 @@ This project is an e-commerce website built using Reactjs for Frontend, Tailwind
 It includes features such as user registration, product listing, shopping cart management, and user authentication,etc.
 
 ## Features
-User registration and login functionality with validation.
-Product listing with images, descriptions, and prices.
-Shopping cart management for adding, removing, and updating items.
-Checkout process with order summary and payment integration.
-Admin dashboard for managing products and orders.
-Responsive design for optimal viewing on various devices.
+- User registration and login functionality with validation.
+- Product listing with images, descriptions, and prices.
+- Shopping cart management for adding, removing, and updating items.
+- Checkout process with order summary and payment integration.
+- Admin dashboard for managing products and orders.
+- Responsive design for optimal viewing on various devices.
 
 ## Getting Started
 
 To get started with the ECommerce-Website project, follow these steps:
 
-1. Clone the Repository
-git clone https://github.com/Sarthak000001/Internship_Project.git
+1. Clone the Repository:
+   
+``` git clone https://github.com/Sarthak000001/Internship_Project.git ```
 
 Install dependencies with this command:
-npm install
+
+``` npm install ```
 
 Run the application with this command: 
-npm run dev
+
+``` npm run dev ```
 
 
 ## Website Screenshots :
 
 Home Page
 ![homePage01](https://github.com/Sarthak000001/Internship_Project/assets/100946019/9fac3c90-55ce-41a8-bb42-8a79a6c1f3be)
-![U![homePage02](https://github.com/Sarthak000001/Internship_Project/assets/100946019/ae28b0a7-d373-409d-9751-a68a405c31de)
+![homePage02](https://github.com/Sarthak000001/Internship_Project/assets/100946019/ae28b0a7-d373-409d-9751-a68a405c31de)
 ![homePage03](https://github.com/Sarthak000001/Internship_Project/assets/100946019/df1aa7a8-04f2-46fa-9ea8-bde9f03b6279)
 
 
@@ -77,8 +80,8 @@ Order Page
 
 ## Usage
 
-Register for an account or log in if you already have one.
-Browse through the product listings and add items to your cart.
-View and manage your cart contents by adding, removing, or updating items.
-Proceed to checkout, enter your shipping and payment details, and place your order.
-As an admin, access the admin dashboard to manage products and view orders.
+- Register for an account or log in if you already have one.
+- Browse through the product listings and add items to your cart.
+- View and manage your cart contents by adding, removing, or updating items.
+- Proceed to checkout, enter your shipping and payment details, and place your order.
+- As an admin, access the admin dashboard to manage products and view orders.
