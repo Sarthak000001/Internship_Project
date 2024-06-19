@@ -15,7 +15,7 @@ It includes features such as user registration, product listing, shopping cart m
 
 To get started with the ECommerce-Website project, follow these steps:
 
-1. Clone the Repository:
+Clone the Repository:
    
 ``` git clone https://github.com/Sarthak000001/Internship_Project.git ```
 
