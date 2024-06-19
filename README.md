@@ -1,4 +1,5 @@
-![homePage04DarkMode](https://github.com/Sarthak000001/Internship_Project/assets/100946019/4a3f2114-664c-4dda-b8d5-7f917041c24b)![homePage01](https://github.com/Sarthak000001/Internship_Project/assets/100946019/27205eef-cf9e-49b1-a0e4-ebaa8ade1474)# Internship Project
+# Internship Project
+
 This project is an e-commerce website built using Reactjs for Frontend, Tailwindcss & Material UI for Styling, and Firebase for Backend. 
 It includes features such as user registration, product listing, shopping cart management, and user authentication,etc.
 
