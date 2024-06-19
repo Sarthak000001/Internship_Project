@@ -30,7 +30,7 @@ Run the application with this command:
 
 ## Website Screenshots :
 
-* Home Page : *
+*Home Page* :
 ![homePage01](https://github.com/Sarthak000001/Internship_Project/assets/100946019/9fac3c90-55ce-41a8-bb42-8a79a6c1f3be)
 ![homePage02](https://github.com/Sarthak000001/Internship_Project/assets/100946019/ae28b0a7-d373-409d-9751-a68a405c31de)
 ![homePage03](https://github.com/Sarthak000001/Internship_Project/assets/100946019/df1aa7a8-04f2-46fa-9ea8-bde9f03b6279)
